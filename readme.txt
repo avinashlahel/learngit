@@ -1,2 +1,2 @@
-This is an initial commit; Making a small change
+This is an initial commit; Making a small change ; for testing push
 Adding a new line
