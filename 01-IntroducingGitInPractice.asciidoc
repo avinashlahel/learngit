@@ -1,4 +1,6 @@
-This is an initial commit; Making a small change ; for testing push
-Adding a new line
-Added to test git fetch
-Begining chapter two
+= Git In Practice
+== Chapter 1
+// TODO: think of funny first line that editor will approve.
+
+== Chapter 2
+// TODO: write two chapters
